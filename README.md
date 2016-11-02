@@ -31,7 +31,7 @@ Moreover, you will learn how to enable your sever to handle requests from multip
 
 ## Pack Provided by TA
 
-You can find it [here]()
+You can find it [on Ceiba](https://ceiba.ntu.edu.tw/modules/index.php?csn=5fa86c&default_fun=bulletin&current_lang=chinese)
 
 In this MP, we provide you basic code for client and server that take cares of building connection between them. So you only need to focus on how to synchronize client and server through network communication. We also provide a program called `port_register` that help to connect client to server, and some config files that you need to modify to adapt our program to your device.
 There's also a simple example of `inotify`. You will use `inotify` to monitor filesystem events on client side so that you can push changes of files and directories on client side to server at runtime.
